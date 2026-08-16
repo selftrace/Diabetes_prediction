@@ -1,6 +1,6 @@
 # diabetes_prediction
 
-The dataset is from kaggle (diabetes Prediction Dataset).
+The dataset is from kaggle (diabetes prediction Dataset).
 
 It contains medical information about patients and each row already has a label indicating whether the patient has diabetes or not. The model learns patterns in the health data to predict if a new patient is likely to have diabetes.
 
