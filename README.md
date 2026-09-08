@@ -1,4 +1,4 @@
-# diabetes_prediction
+# Diabetes prediction
 
 The dataset is from kaggle (diabetes prediction dataset).
 
