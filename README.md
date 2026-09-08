@@ -17,3 +17,6 @@ The dataset includes the following features:
 * Diabetes (target)
 
 I encoded the categorical features, split the data into training and testing sets, and trained both a Logistic Regression and a Random Forest model to compare their performance. I evaluated them using accuracy, a classification report, and a confusion matrix, visualized the most important features and added an interactive interface where users can enter patient information to receive a prediction.
+
+Update 1: reduced a lot of manual code while adding more sophisticated methodology
+This version demonstrates: 5-fold cross-validation → F1 optimization → ROC-AUC evaluation → final model comparison
